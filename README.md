@@ -1,51 +1,37 @@
 # IMDB-Analysis-using-SQL
-Recognizing the value of data-driven decision-making, Bolly Movies has enlisted your expertise as a data analyst and SQL specialist. The objective of this case study is to analyse the movie dataset using SQL queries and extract valuable insights to guide Bolly Movies in planning their new project.
-
 Bolly Movies, an Indian film production company, has a successful track record of producing numerous blockbuster films. While primarily catering to the Indian audience, they have decided to venture into the global market with their upcoming project scheduled for release in 2022.
 
 **Objective:**
-Recognizing the value of data-driven decision-making, Bolly Movies has enlisted your expertise as a data analyst and SQL specialist. The objective of this case study is to analyse the movie dataset using SQL queries and extract valuable insights to guide Bolly Movies in planning their new project. The analysis will cover various aspects such as table exploration, movie release trends, production statistics, genre popularity, ratings analysis, crew members, and more.
+The objective of this case study is to analyse the movie dataset using SQL queries and extract valuable insights to guide Bolly Movies in planning their new project. The analysis covers various aspects such as table exploration, movie release trends, production statistics, genre popularity, ratings analysis, crew members, and more.
 
-**Segment 1: Database - Tables, Columns, Relationships**
--	What are the different tables in the database and how are they connected to each other in the database?
--	Find the total number of rows in each table of the schema.
--	Identify which columns in the movie table have null values.
+**Key Learnings:**
+This project was a hands-on learning experience that enhanced my SQL skills and analytical abilities. I gained proficiency in using SQL to explore and analyse large datasets, extract relevant information, and draw valuable insights. Through this project, I developed a deeper understanding of the movie industry, including trends, genre preferences, and factors influencing movie ratings.
 
-**Segment 2: Movie Release Trends**
--	Determine the total number of movies released each year and analyse the month-wise trend.
--	Calculate the number of movies produced in the USA or India in the year 2019.
+**Recommendations**
 
-**Segment 3: Production Statistics and Genre Analysis**
--	Retrieve the unique list of genres present in the dataset.
--	Identify the genre with the highest number of movies produced overall.
--	Determine the count of movies that belong to only one genre.
--	Calculate the average duration of movies in each genre.
--	Find the rank of the 'thriller' genre among all genres in terms of the number of movies produced.
+**a.	Based on the analysis, provide recommendations for the types of content Bolly movies should focus on producing.**
+From the analysis done, these are my recommendations for Bolly movies production house:
 
-**Segment 4: Ratings Analysis and Crew Members**
--	Retrieve the minimum and maximum values in each column of the ratings table (except movie_id).
--	Identify the top 10 movies based on average rating.
--	Summarise the ratings table based on movie counts by median ratings.
--	Identify the production house that has produced the most number of hit movies (average rating > 8).
--	Determine the number of movies released in each genre during March 2017 in the USA with more than 1,000 votes.
--	Retrieve movies of each genre starting with the word 'The' and having an average rating > 8.
+**1.Focus on Drama and comedy:**
+According to the trend analysis, drama and comedy films are performing the best overall. Bolly Movies should keep emphasizing the creation of compelling, emotionally charged stories that connect with viewers.
 
-**Segment 5: Crew Analysis**
--	Identify the columns in the names table that have null values.
--	Determine the top three directors in the top three genres with movies having an average rating > 8.
--	Find the top two actors whose movies have a median rating >= 8.
--	Identify the top three production houses based on the number of votes received by their movies.
--	Rank actors based on their average ratings in Indian movies released in India.
--	Identify the top five actresses in Hindi movies released in India based on their average ratings.
+**2. Explore Action and Romance:**
+The next best genres for bolly movies to study are romance and action. Bolly movies can make pictures that appeal to a wider audience by branching out into action films with thrilling stunts and engaging storylines, as well as romantic movies that reflect various love tales and explore various relationship issues.
 
-**Segment 6: Broader Understanding of Data**
--	Classify thriller movies based on average ratings into different categories.
--	analyse the genre-wise running total and moving average of the average movie duration.
--	Identify the five highest-grossing movies of each year that belong to the top three genres.
--	Determine the top two production houses that have produced the highest number of hits among multilingual movies.
--	Identify the top three actresses based on the number of Super Hit movies (average rating > 8) in the drama genre.
--	Retrieve details for the top nine directors based on the number of movies, including average inter-movie duration, ratings, and more.
+**3. International collaboration:**
+Bolly movies can collaborate with international production companies as well as it is seen that countries like USA and UK have significantly high number of movies this will help to expand the global reach and appeal of Bolly Movies by catering to a broader audience. 
+The top production houses based on the number of votes received by their movies like Marvel Studios, and Twentieth Century Fox can be collaborated with thus propelling their popularity and fanbase. 
 
-**Segment 7: Recommendations**
--	Based on the analysis, provide recommendations for the types of content Bolly movies should focus on producing.
+**4. Stay Innovative and Stay Informed:**
+Bolly movies can experiment with original concepts and unorthodox narrating techniques while keeping an eye on market trends, audience preferences, and industry advancements through ongoing market research. This helps them stay innovative and informed.
+
+**5. Focus on Ratings and Reviews:**
+Bolly Movies should focus on ratings and reviews to understand audience preferences and improve future projects. Collaborating with successful production houses like Dream Warrior Pictures, National Treasure Live, and Panorama Studios can ensure high-quality content. Prioritizing well-crafted films with positive reviews and high ratings will boost Bolly Movies' reputation and success in the industry.
+
+**Conclusion:**
+I thoroughly enjoyed working on this IMDB movie analysis project. It provided a valuable opportunity to apply SQL skills to real-world data and gain insights into the movie industry. I believe this project has not only improved my analytical abilities but also deepened my understanding of SQL as a powerful tool for data analysis.
+
+
+
+
 
